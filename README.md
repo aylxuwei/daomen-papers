@@ -10,7 +10,6 @@ AGPL-3.0
 
 ## 论文列表
 
-16. 爱灵共生文化先行者（中英双语）
 
 15. Supplementary Information（中英双语）
 
