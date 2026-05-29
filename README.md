@@ -10,6 +10,8 @@ AGPL-3.0
 
 ## 论文列表
 
+15. Supplementary Information（中英双语）
+
 14. Towards Deterministic Large Models（中英双语）
 
 13. 从概率生成到确定性语义检索（中英双语）
